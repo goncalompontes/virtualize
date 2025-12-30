@@ -1,4 +1,3 @@
 [workspace]
-members = ["virtualize_types",
-    "virtualize_macro",
-]
+resolver = "3"
+members = ["virtualize_types", "virtualize"]
