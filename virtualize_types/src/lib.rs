@@ -1,4 +1,9 @@
 #![feature(associated_type_defaults)]
+#![feature(min_specialization)]
+
+mod first;
+mod second;
+mod third;
 
 pub struct Noop;
 
